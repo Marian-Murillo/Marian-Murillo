@@ -1,6 +1,6 @@
 # 👩‍💻 Full Stack Developer – Business IT
 
-![Work Image](https://raw.githubusercontent.com/Alfrex92/hosted-assets/main/dev-banner.png)
+![Work Image](https://pixy.org/src/5759310/8000x2667/WEB-NETWORK-PROGRAMMING-BANNER-DRAWING_c.jpg)
 
 Hi! I'm a Full Stack Developer with a background in Business IT. I develop scalable web applications and work with both frontend and backend technologies. I also manage databases, use cloud storage tools, and edit marketing visuals. I have basic knowledge of SEO and a good understanding of how to improve user experience through design and performance. My goal is to deliver efficient and creative digital solutions that support business growth.
 
