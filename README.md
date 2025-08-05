@@ -6,7 +6,8 @@ Hi! I'm a Full Stack Developer with a background in Business IT. I develop scala
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://www.linkedin.com/in/marian-murillo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/marian-murillo/)
+
 
 ---
 
