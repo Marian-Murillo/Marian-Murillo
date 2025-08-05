@@ -1,8 +1,4 @@
-# 👩‍💻 Full Stack Developer – Business IT
-
-![Work Banner](https://cdn.pixabay.com/photo/2016/03/26/13/09/abstract-1281646_1280.jpg)
-
-
+# Marian Murillo 👩‍💻 Full Stack Developer – Business IT
 
 Hi! I'm a Full Stack Developer with a background in Business IT. I develop scalable web applications and work with both frontend and backend technologies. I also manage databases, use cloud storage tools, and edit marketing visuals. I have basic knowledge of SEO and a good understanding of how to improve user experience through design and performance. My goal is to deliver efficient and creative digital solutions that support business growth.
 
