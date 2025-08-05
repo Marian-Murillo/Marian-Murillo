@@ -39,6 +39,8 @@ Hi! I'm a Full Stack Developer with a background in Business IT. I develop scala
 
 ## 📄 Certificates
 
-[Google Drive Folder with Certificates](https://drive.google.com/file/d/11if4y4RJ6gqf1wOslW-YtyHxuURLS7yS/view?usp=sharing)
+[Excel](https://drive.google.com/file/d/11if4y4RJ6gqf1wOslW-YtyHxuURLS7yS/view?usp=sharing)
+[Power Bi](https://drive.google.com/file/d/1x-pENwjV9Jm-qO9NYWKKYhDKTHpqDeZD/view?usp=drive_link)
+
 
 
