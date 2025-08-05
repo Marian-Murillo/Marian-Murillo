@@ -39,4 +39,5 @@ Hi! I'm a Full Stack Developer with a background in Business IT. I develop scala
 
 ## 📄 Certificates
 
-- [Google Drive Folder with Certificates]([https://your-google-drive-certificates-link.com](https://drive.google.com/file/d/11if4y4RJ6gqf1wOslW-YtyHxuURLS7yS/view?usp=sharing))
+[Google Drive Folder with Certificates]([https://your-google-drive-certificates-link.com](https://drive.google.com/file/d/11if4y4RJ6gqf1wOslW-YtyHxuURLS7yS/view?usp=sharing))
+
