@@ -1,6 +1,6 @@
 # 👩‍💻 Full Stack Developer – Business IT
 
-![Work Image]([https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dMBJBLVbQilJDUVIdAU7IA.png](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg))
+![Work Image](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg)
 
 
 Hi! I'm a Full Stack Developer with a background in Business IT. I develop scalable web applications and work with both frontend and backend technologies. I also manage databases, use cloud storage tools, and edit marketing visuals. I have basic knowledge of SEO and a good understanding of how to improve user experience through design and performance. My goal is to deliver efficient and creative digital solutions that support business growth.
