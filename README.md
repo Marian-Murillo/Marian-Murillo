@@ -25,7 +25,7 @@ Hi! I'm a Full Stack Developer with a background in Business IT. I develop scala
  ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  ![Elementor](https://img.shields.io/badge/Elementor-21B8F9?logo=elementor&logoColor=white&style=flat) 
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat) 
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)  ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat) 
- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat) 
+ ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat) and more 
 
 
 ---
